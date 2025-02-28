@@ -1,6 +1,4 @@
 import { experience, skills } from "@/data/experience";
-import Image from "next/image";
-import { FaCss3, FaGithub, FaHtml5 } from "react-icons/fa";
 
 const Experience = () => {
 	return (
