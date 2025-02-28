@@ -18,8 +18,7 @@ const About = () => {
             </div>
 
             <h1 className={`${cardo.className} text-xl sm:text-2xl md:text-3xl font-bold pt-5 leading-10`}>
-                I&apos;m a Software Engineer ( Frontend Intensive ) with 2+ years of experience specializing in React.js, TypeScript, and Next.js. Focused on UI/UX optimization, boosting user satisfaction scores, and
-                committed to delivering clean, maintainable code.
+                I&apos;m an Innovative Programmer proficient in Python with experience building projects using the Django framework. Skilled in leveraging NumPy, Pandas, and Matplotlib to manipulate large datasets and create insightful visualizations. A collaborative team player, working effectively with stakeholders and team members to deliver high-quality solutions on time. Expertise includes performance optimization, robust authentication and encryption, and crafting efficient database queries for scalable applications.
             </h1>
         </div>
     )

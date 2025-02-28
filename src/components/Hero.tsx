@@ -21,10 +21,10 @@ const Hero = () => {
           </div>
           <div>
             <h2 className="text-5xl uppercase md:text-6xl font-semibold mt-2">
-              Ayodele Olayinka
+              Ladipo Samuel
             </h2>
             <h3 className="text-2xl md:text-3xl text-gray-600 mt-2">
-              Frontend Developer{" "}
+              Backend Developer{" "}
               <span className="text-sm md:text-base">Afficionado</span>
             </h3>
           </div>
@@ -32,22 +32,20 @@ const Hero = () => {
           <div className="pt-1 space-y-2">
             <div className="flex items-center space-x-2">
               <p className="text-lg text-gray-600 max-w-[500px]">
-                I&apos;m a Frontend Software Engineer with 2+ years of experience
-                specializing in React.js, TypeScript, and Next.js. Experienced
-                in integrating RESTful APIs and component-based architecture.
+              I&apos;m an Innovative Backend Developer proficient in Python with experience building projects using the Django framework. Skilled in leveraging NumPy, Pandas, and Matplotlib to manipulate large datasets and create insightful visualizations.
               </p>
             </div>
             <div className="flex items-center space-x-4 pt-4">
-                <Link target="_blank" referrerPolicy="origin" aria-label="Github" href="https://github.com/theactualdev">
+                <Link target="_blank" referrerPolicy="origin" aria-label="Github" href="https://github.com/ladicodes">
                     <FaGithub size={20} />
                 </Link>
-                <Link target="_blank" referrerPolicy="origin" aria-label="Linkedin" href="https://www.linkedin.com/in/theactualdev">
+                <Link target="_blank" referrerPolicy="origin" aria-label="Linkedin" href="https://www.linkedin.com/in/ladicodes">
                     <FaLinkedin size={20} />
                 </Link>
-                <Link target="_blank" referrerPolicy="origin" aria-label="X (formerly Twitter)" href="https://x.com/theactualdev">
+                <Link target="_blank" referrerPolicy="origin" aria-label="X (formerly Twitter)" href="https://x.com/Ladipo737">
                     <FaSquareXTwitter size={20} />
                 </Link>
-                <Link target="_blank" referrerPolicy="origin" aria-label="E-Mail" href="mailto:olayinkacodes@gmail.com">
+                <Link target="_blank" referrerPolicy="origin" aria-label="E-Mail" href="mailto:ladiposamuel30@gmail.com">
                     <IoMdMail size={20} />
                 </Link>
                 <Link aria-label="Resume" href="/resume.pdf" target="_blank" referrerPolicy="origin" download>

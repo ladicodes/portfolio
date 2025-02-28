@@ -93,10 +93,10 @@ const Navbar = () => {
         <div className="logo relative w-fit font-semibold uppercase text-2xl">
           <div className="flex gap-2 items-center">
             <span> {nickname} </span>
-            <p>Ayodele Olayinka</p>
+            <p>Ladipo Samuel</p>
           </div>
-          <span className="text-sm lowercase absolute right-0">
-            theactualdev
+          <span className="text-sm absolute right-0">
+            Ladipoe!
           </span>
         </div>
 

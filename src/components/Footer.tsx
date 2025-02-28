@@ -122,7 +122,7 @@ const Footer = () => {
 							</p>
 							<div className="space-y-4">
 								<a
-									href="mailto:olayinkacodes@gmail.com"
+									href="mailto:ladiposamuel30@gmail.com"
 									className="flex items-center justify-center w-full px-6 py-3 text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-300 group"
 								>
 									<Mail className="w-4 h-4 mr-2" />
@@ -138,7 +138,7 @@ const Footer = () => {
 				<div className="pt-8 border-t border-gray-100">
 					<div className="flex flex-col md:flex-row justify-between items-center gap-4">
 						<p className="text-gray-500 text-sm">
-							© {currentYear} theactualdev. All rights reserved.
+							© {currentYear} Ladipoe. All rights reserved.
 						</p>
 					</div>
 				</div>

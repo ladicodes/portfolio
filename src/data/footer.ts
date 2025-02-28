@@ -28,17 +28,17 @@ interface Socials {
 export const socials: Socials[] = [
 	{
 		icon: FaGithub,
-		href: "https://github.com/theactualdev",
+		href: "https://github.com/ladicodes",
 		label: "GitHub",
 	},
 	{
 		icon: RiTwitterXFill,
-		href: "https://x.com/theactualdev",
+		href: "https://x.com/Ladipoe737",
 		label: "Twitter",
 	},
 	{
 		icon: FaLinkedin,
-		href: "https://www.linkedin.com/in/theactualdev/",
+		href: "http://www.linkedin.com/in/ladicodes",
 		label: "LinkedIn",
 	},
 ];

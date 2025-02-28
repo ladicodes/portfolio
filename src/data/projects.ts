@@ -9,30 +9,30 @@ interface Project {
 
 export const projects: Project[] = [
 	{
-		title: "CRM Dashboard: School Management System",
-		image: "/dashboard.png",
+		title: "StorePoint – Instant Website Builder for Small Businesses",
+		image: "/storepoint.jpg",
 		description:
-			"The CRM Dashboard for School Management System is a modern web application tailored to simplify administrative tasks for schools. It provides intuitive modules for managing students, teachers, classes, schedules, and more. With a focus on scalability and user experience, the dashboard is ideal for administrators seeking a centralized solution for seamless school operations.",
-        github: "https://github.com/theactualdev/crm-dashboard",
-		demo: "https://schoolcrm-dashboard.vercel.app/admin",
-		tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+			"Collaborated with a team to develop StorePoint, a platform that enables small businesses and local shops to create a fully functional website in under 5 minutes. Designed an intuitive template-based system, allowing users to input business details and select a layout that matches their brand, improving business onboarding efficiency by 40%. The platform empowers entrepreneurs to establish an online presence quickly and effortlessly, eliminating technical barriers.",
+        // github: "https://github.com/theactualdev/crm-dashboard",
+		demo: "https://storepoint.vercel.app",
+		tags: ["Javascript", "TypeScript", "Python"],
 	},
     {
-		title: "GPA Calculator",
-		image: "/gpa.png",
+		title: "Vital Aid - AI-Powered Healthcare Assistance System",
+		image: "/vital.jpg",
 		description:
-			"The GPA Calculator is a lightweight tool that simplifies the process of calculating GPAs. Users can dynamically add courses, input grades and credit hours, and instantly view their GPA results. Designed for accessibility and performance, the app offers a seamless experience across devices, ensuring it's perfect for students at any educational level.",
-		tags: ["Vite", "ReactJS", "Tailwind CSS", "TypeScript"],
-        demo: "https://theactual-gpa.vercel.app/",
-        github: "https://github.com/theactualdev/theactualGPA",
+			"Led a team to develop a sustainable healthcare system that helps users locate the nearest hospital and access AI-driven first aid guidance. Designed to support new residents and individuals in unfamiliar areas, the platform improves hospital discovery efficiency by 50%. Integrated an intelligent AI chatbot, providing real-time first aid responses, reducing critical response time by 40% before professional medical care is available..",
+		tags: ["TypeScript"],
+        demo: "https://vital-aid.pages.dev/first-aid",
+        //github: "https://github.com/theactualdev/theactualGPA",
 	},
 	{
-		title: "Dutiful: Landing Page",
-		image: "/dutiful.png",
+		title: "Smart Waste Bin Project – Sensor-Based Waste Management",
+		image: "/wastebin.jpg",
 		description:
-			"The Dutiful Landing Page is a professional, lightweight, and highly optimized web page that serves as the face of the Dutiful platform. Built to attract and inform users, the page is designed with a focus on clarity, responsiveness, and a seamless user experience across all devices.",
-		github: "https://github.com/theactualdev/dutiful",
-		demo: "https://github.com/theactualdev/dutiful",
-		tags: ["Vite", "ReactJS", "TailwindCSS", "Typescript"],
+			"Led a team in developing a smart waste bin equipped with an ultrasonic sensor to detect when the bin is full, enabling faster waste disposal and reducing pollution by 35%. Tested the project in Ikoyi, Lagos, where homeowners reported increased awareness and timely waste disposal due to the automated alerts. The system improves waste management efficiency by prompting users for disposal, helping to maintain cleaner environments.",
+		//github: "https://github.com/theactualdev/dutiful",
+		demo: "https://www.linkedin.com/posts/ladipo-samuel_this-picture-portrays-an-excellent-man-presenting-activity-7103325970379530240-dF_O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0BJfMBvqT_kiW5P7tkv7cTT9j0I45XAhw ",
+		tags: ["Python", "Django"],
 	},
 ];

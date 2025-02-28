@@ -19,7 +19,7 @@ const Experience = () => {
 							</div>
 						))}
 					</div>
-					<div className="relative mt-5 max-w-[300px] overflow-hidden">
+					{/* <div className="relative mt-5 max-w-[300px] overflow-hidden">
 						<div className="flex gap-6 animate-scroll">
 							<FaHtml5 size={20} />
 							<FaCss3 size={20} />
@@ -46,7 +46,7 @@ const Experience = () => {
 							<Image alt="Vite Icon" width={20} height={20} src="/vite.png" />
 							<FaGithub size={20} />
 						</div>
-					</div>
+					</div> */}
 				</div>
 
 				{/* Experience Section */}
