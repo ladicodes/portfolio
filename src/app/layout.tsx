@@ -15,9 +15,9 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Ladipo Samuel | Backend Developer",
   description: "crafted with wit by Ladipoe!",
-  icons: [{sizes: "64x64 32x", type: "image/x-icon", url: "/favicon.ico", rel:"icon"}, {url: "https://ladipoe.codes/image.jpg", type: "image/png", rel: "apple-touch-icon"}],
+  icons: [{sizes: "64x64 32x", type: "image/x-icon", url: "/favicon.ico", rel:"icon"}, {url: "https://ladipo.tech/image.jpg", type: "image/png", rel: "apple-touch-icon"}],
   applicationName: "Ladipoe!",
-  authors: [{ name: "Ladipo Samuel", url: "https://ladipoe.codes" }],
+  authors: [{ name: "Ladipo Samuel", url: "https://ladipo.tech" }],
   generator: "Next.js",
   keywords: [
     "Software Engineer",
@@ -77,13 +77,13 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    url: "https://ladipoe.codes",
+    url: "https://ladipo.tech",
     title: "Ladipo Samuel | Backend Developer",
     description: "crafted with wit by ladipoe!",
     siteName: "Ladipoe",
     images: [
       {
-        url: "https://ladipoe.codes/image.jpg",
+        url: "https://ladipo.tech/image.jpg",
         width: 1200,
         height: 630,
         alt: "Ladipo Samuel | Backend Engineer",
@@ -96,7 +96,7 @@ export const metadata: Metadata = {
     creator: "@Ladipo737",
     title: "Ladipo Samuel | Backend Engineer",
     description: "crafted with wit by Ladipoe!",
-    images: "https://ladipoe.codes/image.jpg",
+    images: "https://ladipo.tech/image.jpg",
   },
   formatDetection: {
     telephone: true,
