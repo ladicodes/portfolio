@@ -33,7 +33,7 @@ export const socials: Socials[] = [
 	},
 	{
 		icon: RiTwitterXFill,
-		href: "https://x.com/Ladipoe737",
+		href: "https://x.com/ladicodez",
 		label: "Twitter",
 	},
 	{
